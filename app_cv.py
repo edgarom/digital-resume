@@ -1,10 +1,6 @@
 from pathlib import Path
-
 import streamlit as st
 from PIL import Image
-from streamlit_carousel import carousel
-
-
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
@@ -20,7 +16,7 @@ PAGE_ICON = "👤"
 NAME = ":blue[Edgar] Fragoso"
 DESCRIPTION = """I consider myself a driven individual with a 
                     passion for continuous growth and learning in :blue[Data Science]."""
-DESCRIPTION2= """This field is growing fast there are several tools for solving problems. I take training courses to be ready and resolve them with the best strategies.."""
+DESCRIPTION2= """This field is growing fast there are several tools for solving problems. I take training courses to be ready and resolve them with the best strategies."""
 EMAIL = "edgarfragosogarcia@gmail.com"
 EMAIL2 = "edgarfragosogarcia@outlook.es"
 SOCIAL_MEDIA = {
