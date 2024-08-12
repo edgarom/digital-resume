@@ -96,7 +96,8 @@ st.write(
     """
 - ⚙ Programming: Python and Bash.
 - ⚙ ML: Linear, Clasification, Clustering.
-- ⚙ Cloud & MLOPs: Azure, AWS, Databricks.
+- ⚙ Generative AI: OpenAI, Genimi, Vertex AI, RAG system, 
+- ⚙ Cloud: AWS, GCP.
 - ⚙ OSys & DevOPS: Linux, Docker, Git. 
 """
 )
