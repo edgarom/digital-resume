@@ -54,7 +54,6 @@ with col2:
         mime="application/octet-stream",
     )
     st.write("✉️", EMAIL)
-    st.write("✉️", EMAIL2)
     
 
 # --- SOCIAL LINKS ---
