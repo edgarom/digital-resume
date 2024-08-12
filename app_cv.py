@@ -15,10 +15,9 @@ PAGE_TITLE = "Digital CV | Edgar Fragoso"
 PAGE_ICON = "👤"
 NAME = ":blue[Edgar] Fragoso"
 DESCRIPTION = """I consider myself a driven individual with a 
-                    passion for continuous growth and learning in :blue[Data Science]."""
+                    passion for continuous growth and learning in :blue[Generative AI & MLops]."""
 DESCRIPTION2= """This field is growing fast there are several tools for solving problems. I take training courses to be ready and resolve them with the best strategies."""
 EMAIL = "edgarfragosogarcia@gmail.com"
-EMAIL2 = "edgarfragosogarcia@outlook.es"
 SOCIAL_MEDIA = {
     
     "LinkedIn": "https://www.linkedin.com/in/edgar-omar-fragoso-garcia-69006092",
@@ -69,9 +68,8 @@ st.write('\n')
 st.subheader(":blue[Experience] & Qulifications")
 st.write(
     """
-- ✔ 9 Years experience in Data Science.
-- ✔ I Keep positive attitude to face new challenges.
-- ✔ Strong hands on experience and knowledge in Python, SQL and MongoDB. 
+- ✔ 10 Years experience in Data Science.
+- ✔ I Keep positive attitude to face new challenges. 
 - ✔ Good understanding of mathematics and statistical principles.
 
 """
@@ -82,6 +80,8 @@ st.write('\n')
 st.subheader("Accomplishments")
 st.write(
     """
+- ⟡ I've expanded my expertise into the forefront of generative AI, focusing on the implementation of Optical Character Recognition (OCR) and Large Language Models (LLMs). I have spearheaded the development of virtual assistants powered by Retrieval-Augmented Generation (RAG). 
+- ⟡ ntegrating module to AIopsHUB to predict crashes in node servers in bank systems through prophet forecasting module using CPUs and Memory as input. Furthermore, I Implemented a forecast for the Optimization of cash in branch banks an ATM. My knowledge let me bring Python courses with an aproach to Data Science to collaborators of Salinas Group.
 - ⟡ The implementation of a pipeline in AWS and Linear Regularization Method allow to the company give valuable information to end users about the relation of genetic markers and clinical conditions, the above increased the flow of users the company increase gains in 2022.
 - ⟡ The automatization of reports to end users in local servers of Clustering and Classification methods allowed to the company concentrate its efforts on the sales area..
 - ⟡ The organization gave technical tools to farmers to resolve international controversies about the possible transmission of
